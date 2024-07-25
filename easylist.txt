@@ -1,9 +1,9 @@
 [Adblock Script]
 ! Last modified: 25 Jul 2024 09:18:12 UTC+7
-!
+! Title: Custom filters
 ! ABPVN List filter
 ! ---------- Generic Blocking Rules ----------
-.com/cpc/$script
+
 /ads/popup_
 *$popup
 a[target="_blank"]
