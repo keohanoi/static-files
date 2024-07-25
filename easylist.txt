@@ -7,3 +7,5 @@
 /ads/popup_
 *$popup
 ||cdn.adxcontent.com^$script
+||adxcontent.com^
+||*.adxcontent.com^
