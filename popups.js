@@ -1,3 +1,4 @@
+console.log("done");
 document.addEventListener('DOMContentLoaded', function() {
     console.log("done");
     document.querySelectorAll('a[target="_blank"]').forEach(function(anchor) {
