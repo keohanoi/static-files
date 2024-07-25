@@ -9,3 +9,4 @@
 ||cdn.adxcontent.com^$script
 ||adxcontent.com^
 ||*.adxcontent.com^
+||qakzfubfozaj.com^
