@@ -7,5 +7,3 @@
 /ads/popup_
 *$popup
 a[target="_blank"]
-##[onclick*="window.open"]
-##[onmouseup*="window.open"]
