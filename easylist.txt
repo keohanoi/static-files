@@ -6,4 +6,4 @@
 
 /ads/popup_
 *$popup
-a[target="_blank"]
+||cdn.adxcontent.com^$script
