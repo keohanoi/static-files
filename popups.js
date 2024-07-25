@@ -1,8 +1,8 @@
 console.log("done");
-document.addEventListener('DOMContentLoaded', function() {
+window.onload = function() {
     console.log("done");
     document.querySelectorAll('a[target="_blank"]').forEach(function(anchor) {
-        anchor.removeAttribute('target');
         console.log("done");
+        anchor.removeAttribute('target');
     });
-});
+};
