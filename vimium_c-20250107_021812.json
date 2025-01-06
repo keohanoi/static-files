@@ -1,0 +1,37 @@
+{
+	"name": "Vimium C",
+	"@time": "1/7/2025, 2:18:12 AM",
+	"time": 1736191092400,
+	"environment": {
+		"extension": "2.11.3",
+		"platform": "mac",
+		"chromium": 131
+	},
+	"exclusionRules": [
+		{
+			"passKeys": "0 1 2 3 4 5 6 7 8 9 ",
+			"pattern": ":https://www.youtube.com/"
+		}
+	],
+	"keyLayout": 2,
+	"keyMappings": [
+		"#!no-check",
+		"map a goBack",
+		"map s goForward",
+		"map q previousTab",
+		"map w nextTab",
+		"map t Vomnibar.activateTabs",
+		""
+	],
+	"userDefinedCss": [
+		".LH {",
+		"  background: linear-gradient(45deg, #ff00ff, #00ffff) !important; /* Neon magenta to cyan gradient */",
+		"  box-shadow: 0 0 5px #ff00ff, 0 0 10px #00ffff !important; /* Subtle neon glow */",
+		"  color: #ffffff !important; /* White text for high contrast */",
+		"  text-shadow: 0 0 5px #ff00ff, 0 0 10px #00ffff !important; /* Softer neon text glow */",
+		"  border-radius: 5px !important; /* Smooth rounded edges */",
+		"}",
+		""
+	],
+	"vimSync": true
+}
